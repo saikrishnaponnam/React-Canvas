@@ -1,0 +1,18 @@
+
+go to project folder in terminal enter: 
+yarn 
+yarn run start
+
+Add:
+we can add rectangles using add button
+to set x,y coordinates click on canvas or manually enter in input  
+enter width and height on canvas to be drawn
+enter color of rectangle border
+
+Delete:
+to delete a rectangle click on rectangle to select it
+click delete button to delete it
+
+re-size:
+click on a rectangle to resize it
+enter width and height to resize

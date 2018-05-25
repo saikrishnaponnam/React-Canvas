@@ -1,0 +1,14 @@
+{
+  "name": "react-canvas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+  	"start" : "live-server public"
+  },
+  "dependencies": {
+    "babel-preset-env": "1.5.2",
+    "babel-preset-react": "6.24.1",
+    "live-server": "^1.2.0"
+  }
+}
